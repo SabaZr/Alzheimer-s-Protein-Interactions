@@ -49,6 +49,28 @@ This project presents a scalable framework for predicting missing or novel prote
 - Annoy
 - NumPy, Pandas, Matplotlib
 
+  🧬 Datasets Used
+The following publicly available datasets were used in this project:
+
+BioGRID Alzheimer’s Project
+Release 4.4.244 (2024)
+🔗 [Download Dataset](https://downloads.thebiogrid.org/File/BioGRID/Release-Archive/BIOGRID-4.4.244/BIOGRID-PROJECT-alzheimers_disease_project-4.4.244.zip)
+Source: The BioGRID Project
+
+UniProtKB/Swiss-Prot
+Manually curated protein data (2024)
+🔗 [UniProt Website](https://www.uniprot.org/uniprotkb)
+Source: The UniProt Consortium
+
+KEGG Alzheimer’s Pathway
+hsa05010 pathway (2024)
+🔗 [https://www.kegg.jp/entry/hsa05010](https://www.kegg.jp/entry/hsa05010)
+Source: Kanehisa Laboratories
+
+RCSB Protein Data Bank (PDB)
+3D structural data for protein models
+🔗 [https://www.rcsb.org/docs/general-help/organization-of-3d-structures-in-the-protein-data-bank](https://www.rcsb.org/docs/general-help/organization-of-3d-structures-in-the-protein-data-bank)
+
 ## 📈 Output
 Ranked list of predicted missing PPIs with cosine similarity scores.
 
