@@ -62,9 +62,9 @@ This project introduces a scalable and biologically inspired framework to predic
 ---
 
 ![SNN structure](images/snn.png)
-![node and edge structure](images/node_edges(1).png)
-![HDC brain inspired](HDC(1).png)
-![3d of hdc](images/3d hdc.png)
+![node and edge structure](images/node_edges.png)
+![HDC brain inspired](HDC.png)
+![3d of hdc](images/3d_hdc.png)
 
 ## ⚙️ Requirements
 
