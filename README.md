@@ -80,4 +80,9 @@ This project introduces a scalable and biologically inspired framework to predic
   journal = {bioRxiv},
   year = {2025},
   doi = {10.1101/2025.04.11.647919}
+
 }
+## 📄 License
+
+This project is shared under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+You are free to share and adapt the material for any purpose, even commercially, **as long as proper credit is given to the original author.**
