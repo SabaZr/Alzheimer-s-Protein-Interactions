@@ -1,6 +1,6 @@
 # 🧠 Alzheimer’s Protein–Protein Interaction Prediction
 
-**[📄 Preprint DOI]([https://doi.org/10.1101/2025.04.11.647919](https://www.biorxiv.org/content/10.1101/2025.04.11.647919v1))**  
+**[📄 View Preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.11.647919v1)**   
 **📝 Title:** _Graph-Based Modeling of Alzheimer's Protein Interactions via Spiking Neural, Hyperdimensional Encoding, and Scalable Ray-Based Learning_  
 **👤 Author:** Saba Zare
 
