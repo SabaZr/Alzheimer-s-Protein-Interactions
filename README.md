@@ -60,11 +60,23 @@ This project introduces a scalable and biologically inspired framework to predic
 | **RCSB PDB** | Protein 3D structural data | [Visit](https://www.rcsb.org/docs/general-help/organization-of-3d-structures-in-the-protein-data-bank) |
 
 ---
+## 📊 Model Architecture & Visual Representations
 
-![SNN structure](images/snn.png)
-![node and edge structure](images/node_edges.png)
-![HDC brain inspired](HDC.png)
-![3d of hdc](images/3d_hdc.png)
+Below are visual illustrations of the model's components and key computational structures used in the project:
+<p align="center">
+  <img src="images/snn.png" alt="SNN structure" width="300"/><br>
+  <em>Fig 1. Architecture of the Spiking Neural Network (SNN).</em>
+</p>
+
+<p align="center">
+  <img src="images/node_edges.png" alt="node and edge structure" width="300"/><br>
+  <em>Fig 2. Structure of nodes and edges in the biological interaction graph.</em>
+</p>
+
+<p align="center">
+  <img src="images/3d_hdc.png" alt="3D HDC" width="300"/><br>
+  <em>Fig 3. 3D visualization of Hyperdimensional Computing representation.</em>
+</p>
 
 ## ⚙️ Requirements
 
