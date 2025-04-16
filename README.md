@@ -60,6 +60,7 @@ This project introduces a scalable and biologically inspired framework to predic
 | **RCSB PDB** | Protein 3D structural data | [Visit](https://www.rcsb.org/docs/general-help/organization-of-3d-structures-in-the-protein-data-bank) |
 
 ---
+![SNN structure](snn.png)
 
 ## ⚙️ Requirements
 
