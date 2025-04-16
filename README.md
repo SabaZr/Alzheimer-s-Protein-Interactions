@@ -89,6 +89,26 @@ Below are visual illustrations of the model's components and key computational s
 - Annoy
 - NumPy, Pandas, Matplotlib
 
+## 🔍 Approximate Nearest Neighbor Search with Annoy
+
+To efficiently perform similarity search among high-dimensional vectors (e.g., EEG features, HDC representations, or PPI embeddings), we use **Annoy (Approximate Nearest Neighbors Oh Yeah)**.
+
+Annoy is a fast, memory-efficient library developed by Spotify for **approximate nearest neighbor search** in large datasets. It constructs a forest of random projection trees to partition the space and provides fast querying with a trade-off between accuracy and speed.
+
+### 🔧 Key Features:
+- Optimized for high-dimensional data
+- Very fast at querying neighbors
+- Suitable for large-scale problems (millions of vectors)
+- Works well in both RAM and disk-based settings
+
+### 🧠 Usage in this project:
+We use Annoy to:
+- Find similar brain signal representations
+- Link related protein interaction patterns
+- Speed up retrieval during training and evaluation phases
+
+For more details, visit the [Annoy GitHub repository](https://github.com/spotify/annoy).
+
   ## 📣 Citation
   If you use this work, please cite the preprint:
 @article{zare2025alzheimers,
