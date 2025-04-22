@@ -2,9 +2,10 @@
 
 **[📄 View Preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.11.647919v1)**  
 **[🔗 DOI](https://doi.org/10.1101/2025.04.11.647919)**  
-**[Figshare](https://doi.org/10.6084/m9.figshare.28829399.v1)**
+**[📁 Figshare](https://doi.org/10.6084/m9.figshare.28829399.v1)**  
 **📝 Title:** _Graph-Based Modeling of Alzheimer's Protein Interactions via Spiking Neural, Hyperdimensional Encoding, and Scalable Ray-Based Learning_  
 **👤 Author:** Saba Zare
+
 
 This project introduces a scalable and biologically inspired framework to predict missing or novel protein–protein interactions (PPIs) related to **Alzheimer’s disease**. It integrates graph modeling, hyperdimensional encoding, spiking neural networks (SNNs), and evolutionary feature selection for accurate and efficient link prediction.
 
